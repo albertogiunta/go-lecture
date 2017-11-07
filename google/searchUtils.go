@@ -3,7 +3,6 @@ package google
 import (
 	"fmt"
 	"time"
-	"html/template"
 )
 
 // function that will be passed around to be executed in all the different ways (serial, parallel etc.)
